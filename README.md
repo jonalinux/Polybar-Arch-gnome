@@ -47,7 +47,7 @@ oll change temperature
 - Show Title window
 - Workspace
 - Battery
-- 
+- Firewalld Staus / click-left: open Firewalld setting
 
 ![Screenshot from 2022-04-27 17-02-04](https://user-images.githubusercontent.com/103053714/165561886-d0754ff3-a57f-4735-ab97-7020295915c0.png)
 
