@@ -31,3 +31,6 @@ Polybar-Arch-gnome
 - Search click-left: open Nautilus ~/
 - DATE-Clock
 - Powermenu click-left: poweroff click-right: Reboot
+- Show user@hostname info
+- Show Title window
+- Workspace
