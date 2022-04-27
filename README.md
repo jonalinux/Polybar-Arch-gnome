@@ -48,7 +48,8 @@ oll change temperature
 - Battery
 - 
 
-![Screenshot from 2022-04-27 16-10-12](https://user-images.githubusercontent.com/103053714/165551567-9d69a56f-f8df-4502-b207-ba7eefe23b34.png)
+![Screenshot from 2022-04-27 17-02-04](https://user-images.githubusercontent.com/103053714/165561886-d0754ff3-a57f-4735-ab97-7020295915c0.png)
+
 
 # Polybar
 GitHub polybar for docs and download https://github.com/polybar/polybar
