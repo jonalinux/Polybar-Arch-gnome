@@ -34,3 +34,8 @@ Polybar-Arch-gnome
 - Show user@hostname info
 - Show Title window
 - Workspace
+
+# Polybar
+GitHub polybar for docs and download https://github.com/polybar/polybar
+
+
