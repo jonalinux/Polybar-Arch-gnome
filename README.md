@@ -21,10 +21,10 @@ Polybar-Arch-gnome
 - Update status / click-left: install update![Screenshot from 2022-04-27 16-07-02](https://user-images.githubusercontent.com/103053714/165551247-108addb3-7467-4516-979a-3ee30742e42b.png) ![Screenshot from 2022-04-27 16-15-48](https://user-images.githubusercontent.com/103053714/165552208-6a435ffd-05b8-460f-a4f3-169f5c8b2203.png)
 
 
-- Trash info [empty = 0], [full > 0], [very full > 200000] (files) / click-left: open trash
-![Screenshot from 2022-04-27 16-05-31](https://user-images.githubusercontent.com/103053714/165549974-84f19017-310b-4589-bf30-9bf39f31ab14.png)
-![Screenshot from 2022-04-27 15-59-57](https://user-images.githubusercontent.com/103053714/165549347-5b565edb-47eb-459e-a918-627344991043.png)
-![Screenshot from 2022-04-27 16-00-37](https://user-images.githubusercontent.com/103053714/165549350-eccd0a40-9f9b-46b6-b5c2-b5460f4681e6.png)
+- Trash info EMPTY - FULL - (VERY FULL from 5GB) /  click-left: open trash - ![Screenshot from 2022-04-27 18-57-55](https://user-images.githubusercontent.com/103053714/165590685-43d2b222-1822-4c4b-a156-24c8c92f68c4.png)
+![Screenshot from 2022-04-27 18-59-54](https://user-images.githubusercontent.com/103053714/165590690-da2a1c83-02a3-4370-905c-e19051d16f55.png)
+![Screenshot from 2022-04-27 16-05-31](https://user-images.githubusercontent.com/103053714/165590711-5dd2d651-3253-44bc-b103-a406c25c89d8.png)
+
 
 - Usb mount info / click-right: unmount![Screenshot from 2022-04-27 16-10-32](https://user-images.githubusercontent.com/103053714/165551367-ac848611-d67a-4206-8957-40a8ae560a64.png)
 - GPU nvidia-smi Usage% Temp°C
