@@ -25,16 +25,11 @@ Polybar-Arch-gnome
 ![Screenshot from 2022-04-27 16-00-37](https://user-images.githubusercontent.com/103053714/165549350-eccd0a40-9f9b-46b6-b5c2-b5460f4681e6.png)
 
 - Usb mount info / click-right: unmount![Screenshot from 2022-04-27 16-10-32](https://user-images.githubusercontent.com/103053714/165551367-ac848611-d67a-4206-8957-40a8ae560a64.png)
-
 - GPU nvidia-smi Usage% Temp°C
 - RAM + SWAP
 - CPU used
 - Temperature
-- SSD usage
-![Screenshot from 2022-04-27 16-09-01](https://user-images.githubusercontent.com/103053714/165551702-55e9018e-7763-463c-aab0-347101fe009d.png)
-
-
-
+- SSD usage ![Screenshot from 2022-04-27 16-09-01](https://user-images.githubusercontent.com/103053714/165551702-55e9018e-7763-463c-aab0-347101fe009d.png)
 - Redshift on/off / Scr!
 oll change temperature
 - Bluetooth info device / click-left: open blueman setting
