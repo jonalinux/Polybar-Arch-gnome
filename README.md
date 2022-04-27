@@ -46,6 +46,8 @@ oll change temperature
 - Show Title window
 - Workspace
 - Battery
+- 
+
 ![Screenshot from 2022-04-27 16-10-12](https://user-images.githubusercontent.com/103053714/165551567-9d69a56f-f8df-4502-b207-ba7eefe23b34.png)
 
 # Polybar
