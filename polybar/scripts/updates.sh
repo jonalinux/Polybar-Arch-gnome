@@ -13,11 +13,11 @@ while true; do
     # every 10 seconds another check for updates is done
     while (( UPDATES > 0 )); do
         if (( UPDATES == 1 )); then
-            echo " $UPDATES"
+            echo " %{F#5DC0FE}%{F#F2f2f2} $UPDATES Updates"
         elif (( UPDATES > 1 )); then
-            echo " $UPDATES"
+            echo " %{F#5DC0FE}%{F#F2f2f2} $UPDATES Updates"
         else
-            echo ""
+            echo "%{F#00ff6a} %{F#f2f2f2}Updated"
         fi
         sleep 10
         get_total_updates
@@ -26,7 +26,7 @@ while true; do
     # when no updates are available, use a longer loop, this saves on CPU
     # and network uptime, only checking once every 30 min for new updates
     while (( UPDATES == 0 )); do
-        echo ""
+        echo "%{F#00ff6a} %{F#f2f2f2}Updated"
         sleep 300
         get_total_updates
     done
