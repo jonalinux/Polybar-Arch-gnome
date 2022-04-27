@@ -1,16 +1,15 @@
 #!/usr/bin/env bash
 
-get_bluetooth() { 
-device_info=$(bluetoothctl info "$device"); 
+get_firewall() { STATUS=$( ); }
 
-}
+get_firewall
 
-get_bluetooth
+if [ -z "$STATUS"  ]; then
 
-
-
-if [ -z "$device_alias" ]; then
-   echo ""
+     echo ""     
+    
 else  
-   echo ""       
+     echo ""    
 fi 
+
+
