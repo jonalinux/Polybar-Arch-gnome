@@ -11,11 +11,16 @@ Polybar-Arch-gnome
 - font-2 = "Font Awesome 6 Brands,Font Awesome 6 Brands Regular:style=Regular:13;2"
 - font-3 = "Iosevka Nerd Font:pixelsize=13;3"
 
+
 # Modules
 - info-kernel / click-left: Launchpad (jgmenu)
 - Packages count pacman
 - Update status / click-left: install update
-- Trash info / click-left: open trash
+- Trash info empty = 0 full > 0 very full > 200000 (files) / click-left: open trash
+![Screenshot from 2022-04-27 15-59-19](https://user-images.githubusercontent.com/103053714/165549343-a0de4a53-f03a-43c8-97ea-df90cb15b77f.png)
+![Screenshot from 2022-04-27 15-59-57](https://user-images.githubusercontent.com/103053714/165549347-5b565edb-47eb-459e-a918-627344991043.png)
+![Screenshot from 2022-04-27 16-00-37](https://user-images.githubusercontent.com/103053714/165549350-eccd0a40-9f9b-46b6-b5c2-b5460f4681e6.png)
+
 - Usb mount info / click-right: unmount
 - GPU nvidia-smi Usage% Temp°C
 - RAM + SWAP
