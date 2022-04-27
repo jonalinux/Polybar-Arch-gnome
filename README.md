@@ -24,13 +24,18 @@ Polybar-Arch-gnome
 ![Screenshot from 2022-04-27 15-59-57](https://user-images.githubusercontent.com/103053714/165549347-5b565edb-47eb-459e-a918-627344991043.png)
 ![Screenshot from 2022-04-27 16-00-37](https://user-images.githubusercontent.com/103053714/165549350-eccd0a40-9f9b-46b6-b5c2-b5460f4681e6.png)
 
-- Usb mount info / click-right: unmount
+- Usb mount info / click-right: unmount![Screenshot from 2022-04-27 16-10-32](https://user-images.githubusercontent.com/103053714/165551367-ac848611-d67a-4206-8957-40a8ae560a64.png)
+
 - GPU nvidia-smi Usage% Temp°C
 - RAM + SWAP
 - CPU used
 - Temperature
 - SSD usage
-- Redshift on/off / Scroll change temperature
+- [Screenshot from 2022-04-27 16-09-01](https://user-images.githubusercontent.com/103053714/165551446-88bf06c2-bfd6-4c54-8a20-37332975892d.png)
+
+
+- Redshift on/off / Scr!
+oll change temperature
 - Bluetooth info device / click-left: open blueman setting
 - network setting base / Wifi SSID info status / click-left: open Gnome network setting
 - Backlight scroll controll brightness
@@ -42,6 +47,7 @@ Polybar-Arch-gnome
 - Show user@hostname info
 - Show Title window
 - Workspace
+![Screenshot from 2022-04-27 16-10-12](https://user-images.githubusercontent.com/103053714/165551567-9d69a56f-f8df-4502-b207-ba7eefe23b34.png)
 
 # Polybar
 GitHub polybar for docs and download https://github.com/polybar/polybar
