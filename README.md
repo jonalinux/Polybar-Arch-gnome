@@ -11,3 +11,23 @@ Polybar-Arch-gnome
 - font-2 = "Font Awesome 6 Brands,Font Awesome 6 Brands Regular:style=Regular:13;2"
 - font-3 = "Iosevka Nerd Font:pixelsize=13;3"
 
+# Modules
+- info-kernel / click-left: Launchpad (jgmenu)
+- Packages count pacman
+- Update status / click-left: install update
+- Trash info / click-left: open trash
+- Usb mount info / click-right: unmount
+- GPU nvidia-smi Usage% Temp°C
+- RAM + SWAP
+- CPU used
+- Temperature
+- SSD usage
+- Redshift on/off / Scroll change temperature
+- Bluetooth info device / click-left: open blueman setting
+- network setting base / Wifi SSID info status / click-left: open Gnome network setting
+- Backlight scroll controll brightness
+- Volume Audio scroll controll / click-left: muted
+- Keyboard layout with Caps Lock info
+- Search click-left: open Nautilus ~/
+- DATE-Clock
+- Powermenu click-left: poweroff click-right: Reboot
