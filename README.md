@@ -31,7 +31,8 @@ Polybar-Arch-gnome
 - CPU used
 - Temperature
 - SSD usage
-- [Screenshot from 2022-04-27 16-09-01](https://user-images.githubusercontent.com/103053714/165551446-88bf06c2-bfd6-4c54-8a20-37332975892d.png)
+![Screenshot from 2022-04-27 16-09-01](https://user-images.githubusercontent.com/103053714/165551702-55e9018e-7763-463c-aab0-347101fe009d.png)
+
 
 
 - Redshift on/off / Scr!
