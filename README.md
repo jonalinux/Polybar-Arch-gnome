@@ -9,10 +9,7 @@ Polybar-Arch-gnome
 
 # Fonts 
 - font-0 = "SF Pro Display:antialias=true:pixelsize=10;2"
-- font-1 = "Material-Design-Iconic-Font:pixelsize=13;2"
-- font-2 = "Font Awesome 6 Brands,Font Awesome 6 Brands Regular:style=Regular:13;2"
-- font-3 = "Iosevka Nerd Font:pixelsize=13;3"
-
+- font-1 = "Material Icons:style=Regular:pixelsize=13;2"
 
 # Modules
 - info-kernel / click-left: Launchpad (jgmenu)![Screenshot from 2022-04-27 16-06-38](https://user-images.githubusercontent.com/103053714/165551114-04aa785f-15ce-42fc-9c3a-f488e3e94df6.png)
