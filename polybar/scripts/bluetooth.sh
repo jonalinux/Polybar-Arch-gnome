@@ -14,7 +14,7 @@ get_bluetooth
 if [ -z "$device_alias" ]; then
    echo "%{F#77f2f2f2}"
 else  
-   echo " $device_alias"       
+   echo " %{F#77f2f2f2}$device_alias"       
 fi 
  
 

@@ -1,15 +1,8 @@
 #!/usr/bin/env bash
 
-get_firewall() { STATUS=$( ); }
+get_snapshots() { SNP=$(du -a ~/ | wc -l );}
 
-get_firewall
-
-if [ -z "$STATUS"  ]; then
-
-     echo ""     
-    
-else  
-     echo ""    
-fi 
+get_snapshots
+#echo "$SNP"
 
 

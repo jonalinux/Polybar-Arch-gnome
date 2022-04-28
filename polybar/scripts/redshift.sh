@@ -37,7 +37,7 @@ case $1 in
   temperature)
     case $REDSHIFT in
       on)
-        printf " %dK" "$REDSHIFT_TEMP"
+        echo " %{F#77f2f2f2}" "$REDSHIFT_TEMP""K"
         ;;
       off)
         echo "%{F#77f2f2f2}"

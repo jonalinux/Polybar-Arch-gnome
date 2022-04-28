@@ -16,7 +16,7 @@ if (("$EFFECTIVE_SIZE" > "$LIMIT" )); then
    elif (("$TRASH" > 0)); then
    echo "%{F#FF8B42} %{F#f2f2f2}Full %{F#77f2f2f2}$SIZE"
 else  
-   echo "%{F#5DC0FE} %{F#f2f2f2}Empty %{F#77f2f2f2}"      
+   echo " %{F#44f2f2f2} %{F#77f2f2f2}Empty"      
 fi 
 
 
