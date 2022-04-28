@@ -1,9 +1,8 @@
 # Polybar-Arch-gnome
 Polybar-Arch-gnome
 
-![Screenshot from 2022-04-28 18-58-10](https://user-images.githubusercontent.com/103053714/165817245-0391f8ab-546c-471b-aacb-9cc1d5ae463f.png)
+![Screenshot from 2022-04-28 23-52-57](https://user-images.githubusercontent.com/103053714/165860696-bcf5715b-3c5f-4948-88d1-6df047519f8a.png)
 
-![Screenshot from 2022-04-28 21-09-42](https://user-images.githubusercontent.com/103053714/165837280-a47aef6f-1ab6-4167-83ee-7de31e404fbf.png)
 
 
 # Fonts 
