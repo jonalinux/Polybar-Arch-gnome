@@ -1,9 +1,11 @@
 # Polybar-Arch-gnome
 Polybar-Arch-gnome
 
+![Screenshot from 2022-04-28 23-58-48](https://user-images.githubusercontent.com/103053714/165861160-a85aefc5-f746-4a04-ac07-2ff723ad218c.png)
+
 ![Screenshot from 2022-04-28 23-52-57](https://user-images.githubusercontent.com/103053714/165860696-bcf5715b-3c5f-4948-88d1-6df047519f8a.png)
 
-![Screenshot from 2022-04-28 23-57-19](https://user-images.githubusercontent.com/103053714/165861065-bc33d60c-34d5-49a7-9b1e-8d4ddc12fb2b.png)
+
 
 
 # Fonts 
@@ -35,7 +37,7 @@ Polybar-Arch-gnome
 - Workspace
 - Battery
 - Firewalld Staus / click-left: open Firewalld setting
-- snapper-gui
+- snappergui COUNTER FOLDER ./SNAPSHOTS / click-left: open snappergui
 
 
 # polybar.desktop
