@@ -9,7 +9,7 @@ Polybar-Arch-gnome
 
 # Fonts 
 - font-0 = "SF Pro Display:antialias=true:pixelsize=10;2"
-- font-1 = "Iosevka Nerd Font:pixelsize=12;3"
+- font-1 = "Iosevka Nerd Font:pixelsize=12;3" https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka
 
 
 # Modules
