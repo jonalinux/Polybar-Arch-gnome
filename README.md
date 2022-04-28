@@ -18,7 +18,7 @@ Polybar-Arch-gnome
 
 - Packages count pacman![Screenshot from 2022-04-27 16-06-51](https://user-images.githubusercontent.com/103053714/165551137-0ed3981c-a982-4005-bafa-114e62335f29.png)
 
-- Update status / click-left: install update![Screenshot from 2022-04-27 16-07-02](https://user-images.githubusercontent.com/103053714/165551247-108addb3-7467-4516-979a-3ee30742e42b.png) ![Screenshot from 2022-04-27 16-15-48](https://user-images.githubusercontent.com/103053714/165552208-6a435ffd-05b8-460f-a4f3-169f5c8b2203.png)
+- Update status / click-left: install update (Prerequisites pacman-contrib) ![Screenshot from 2022-04-27 16-07-02](https://user-images.githubusercontent.com/103053714/165551247-108addb3-7467-4516-979a-3ee30742e42b.png) ![Screenshot from 2022-04-27 16-15-48](https://user-images.githubusercontent.com/103053714/165552208-6a435ffd-05b8-460f-a4f3-169f5c8b2203.png)
 
 
 - Trash info EMPTY - FULL - (VERY FULL from 5GB) /  click-left: open trash - ![Screenshot from 2022-04-27 18-57-55](https://user-images.githubusercontent.com/103053714/165590685-43d2b222-1822-4c4b-a156-24c8c92f68c4.png)
