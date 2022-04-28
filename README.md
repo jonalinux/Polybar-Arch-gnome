@@ -34,8 +34,7 @@ Polybar-Arch-gnome
 - Temperature
 - SSD usage 
 - ![Screenshot from 2022-04-27 16-09-01](https://user-images.githubusercontent.com/103053714/165551702-55e9018e-7763-463c-aab0-347101fe009d.png)
-- Redshift on/off / Scr!
-oll change temperature
+- Redshift on/off / Scroll change temperature
 - Bluetooth info device / click-left: open blueman setting
 - network setting base / Wifi SSID info status / click-left: open Gnome network setting
 - Backlight scroll controll brightness
