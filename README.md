@@ -1,8 +1,9 @@
 # Polybar-Arch-gnome
 Polybar-Arch-gnome
 
+![Screenshot from 2022-04-28 18-24-57](https://user-images.githubusercontent.com/103053714/165816999-66fc4402-38f3-4a4f-9bab-c48ae643afc5.png)
 
-![Screenshot from 2022-04-26 21-44-53](https://user-images.githubusercontent.com/103053714/165390220-94ad733f-93c0-41a7-983d-9f1c8d62e69d.png)
+![Screenshot from 2022-04-28 18-23-30](https://user-images.githubusercontent.com/103053714/165816974-2cf8f10e-921a-42f4-9b99-6a7858e15857.png)
 
 # Fonts 
 - font-0 = "SF Pro Display:antialias=true:pixelsize=10;2"
@@ -34,6 +35,8 @@ Polybar-Arch-gnome
 - Battery
 - Firewalld Staus / click-left: open Firewalld setting
 
+# polybar.desktop
+For autostart, open the file with editor and set your username in the Exec=/home/[USER]/.config/polybar/launch.sh, put in /home/.config/autostart and /usr/share/applications 
 
 # Polybar
 GitHub polybar for docs and download https://github.com/polybar/polybar
