@@ -3,7 +3,8 @@ Polybar-Arch-gnome
 
 ![Screenshot from 2022-04-28 18-58-10](https://user-images.githubusercontent.com/103053714/165817245-0391f8ab-546c-471b-aacb-9cc1d5ae463f.png)
 
-![Screenshot from 2022-04-28 18-23-30](https://user-images.githubusercontent.com/103053714/165816974-2cf8f10e-921a-42f4-9b99-6a7858e15857.png)
+![Screenshot from 2022-04-28 21-09-42](https://user-images.githubusercontent.com/103053714/165837280-a47aef6f-1ab6-4167-83ee-7de31e404fbf.png)
+
 
 # Fonts 
 - font-0 = "SF Pro Display:antialias=true:pixelsize=10;2"
