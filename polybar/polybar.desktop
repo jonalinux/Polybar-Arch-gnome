@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=polybar
+Exec=/home/jonathan/.config/polybar/launch.sh
+#sh -c 'killall polybar && polybar bar1 2>&1 | tee -a /tmp/polybar.log'
+Icon=com.github.bluesabre.darkbar
+StartupNotify=false
+Terminal=false
+NoDisplay=false
