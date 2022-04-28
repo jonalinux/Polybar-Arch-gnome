@@ -34,6 +34,8 @@ Polybar-Arch-gnome
 - Workspace
 - Battery
 - Firewalld Staus / click-left: open Firewalld setting
+- snapper-gui
+
 
 # polybar.desktop
 For autostart, open the file with editor and set your username in the Exec=/home/[USER]/.config/polybar/launch.sh, put in /home/.config/autostart and /usr/share/applications 
