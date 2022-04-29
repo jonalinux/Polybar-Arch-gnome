@@ -3,7 +3,7 @@ Polybar-Arch-gnome
 
 ![Screenshot from 2022-04-28 23-58-48](https://user-images.githubusercontent.com/103053714/165861160-a85aefc5-f746-4a04-ac07-2ff723ad218c.png)
 ![Screenshot from 2022-04-28 23-52-57](https://user-images.githubusercontent.com/103053714/165860696-bcf5715b-3c5f-4948-88d1-6df047519f8a.png)
-![Screenshot from 2022-04-29 01-08-31](https://user-images.githubusercontent.com/103053714/165867445-1d287ad3-1dbc-4eb1-9356-9f515efeff0e.png)
+![Screenshot from 2022-04-29 10-31-16](https://user-images.githubusercontent.com/103053714/165919743-d6449ca4-fe8a-428e-adb8-6ed11a504d13.png)
 ![Screenshot from 2022-04-29 01-16-48](https://user-images.githubusercontent.com/103053714/165867435-50d964c7-b4b4-4452-9f59-455dbc383b13.png)
 
 
