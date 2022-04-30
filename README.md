@@ -1,6 +1,7 @@
 # Polybar-Arch-gnome
 Polybar-Arch-gnome
 
+![Screenshot from 2022-04-30 17-16-02](https://user-images.githubusercontent.com/103053714/166113608-dbb79c13-d97a-499e-b091-11dcf2a5b44e.png)
 ![POLYBAR](https://user-images.githubusercontent.com/103053714/166112607-81fed300-a459-4ba5-8ce5-59d382e4caca.png)
 
 # Install polybar for gnome
