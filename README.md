@@ -47,7 +47,7 @@ Polybar-Arch-gnome
 
 
 # How deactivate Gnome top bar 
-Its necessary deactivate the top bar original in gnome you can use any gnome extension meaning for example https://extensions.gnome.org/extension/3843/just-perfection/ or 
+Its necessary deactivate the top bar original in gnome, you can use any gnome extension meaning for example https://extensions.gnome.org/extension/3843/just-perfection/ or 
 https://extensions.gnome.org/extension/545/hide-top-bar/
 
 
