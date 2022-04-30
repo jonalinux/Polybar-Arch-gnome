@@ -1,43 +1,37 @@
 # Polybar-Arch-gnome
 Polybar-Arch-gnome
 
-![Screenshot from 2022-04-28 23-58-48](https://user-images.githubusercontent.com/103053714/165861160-a85aefc5-f746-4a04-ac07-2ff723ad218c.png)
-![Screenshot from 2022-04-28 23-52-57](https://user-images.githubusercontent.com/103053714/165860696-bcf5715b-3c5f-4948-88d1-6df047519f8a.png)
-![Screenshot from 2022-04-29 10-31-16](https://user-images.githubusercontent.com/103053714/165919743-d6449ca4-fe8a-428e-adb8-6ed11a504d13.png)
-![Screenshot from 2022-04-29 01-16-48](https://user-images.githubusercontent.com/103053714/165867435-50d964c7-b4b4-4452-9f59-455dbc383b13.png)
-
-
-# Fonts 
-- font-0 = "SF Pro Display:antialias=true:pixelsize=10;2"
-- font-1 = "Iosevka Nerd Font:pixelsize=12;3" https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka
-
+![POLYBAR](https://user-images.githubusercontent.com/103053714/166112607-81fed300-a459-4ba5-8ce5-59d382e4caca.png)
 
 # Modules
-- info-kernel 
+- Show user@hostname info / click-left open jgmenu (if you have)
 - Packages count pacman
-- Update status / click-left: install update (Prerequisites pacman-contrib) 
+- Update status / click-left: install update (Prerequisites: sudo pacman -S pacman-contrib) 
 - Trash info EMPTY - FULL - (VERY FULL from 5GB) /  click-left: open trash 
-- GPU nvidia-smi Usage% Temp°C
+- Cache home & pacman package [Size of total cache in ~/.cache and pacman package cache]
+- GPU nvidia-smi Usage% Temp°C (Prerequisistes: Sudo pacman -S nvidia)
 - RAM + SWAP
 - CPU used
 - Temperature
 - SSD usage 
-- Redshift on/off / Scroll change temperature
-- Bluetooth info device / click-left: open blueman setting
+- Redshift on/off / Scroll change temperature (Prerequisistes: Sudo pacman -S redshift)
+- Bluetooth info device / click-left: open blueman setting (Prerequisistes: Sudo pacman -S blueman)
 - network setting base / Wifi SSID info status / click-left: open Gnome network setting
-- Backlight scroll controll brightness
-- Volume Audio scroll controll / click-left: muted
+- Backlight scroll controll brightness (Prerequisistes for scroll see https://wiki.archlinux.org/index.php/Backlight#ACPI)
+- Volume Audio scroll controll / click-left: muted (Prerequisistes: pulse audio)
 - Keyboard layout with Caps Lock info
 - Search click-left: open Nautilus ~/
 - DATE-Clock
 - Powermenu click-left: poweroff click-right: Reboot
-- Show user@hostname info
 - Show Title window
 - Workspace
 - Battery
-- Firewalld Staus / click-left: open Firewalld setting
-- snappergui COUNTER FOLDER ./SNAPSHOTS / click-left: open snappergui
+- Firewalld Staus / click-left: open Firewalld setting (Prerequisistes: Sudo pacman -S firewalld) ask password for controll activities evry 3h
+- snappergui COUNTER FOLDER ./SNAPSHOTS / click-left: open snappergui (Prerequisistes: Sudo pacman -S snappergui / with snapshots active)
 
+# Fonts 
+- font-0 = "SF Pro Display:antialias=true:pixelsize=10;2"
+- font-1 = "Iosevka Nerd Font:pixelsize=12;3" https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka
 
 # polybar.desktop
 For autostart, open the file with editor and set your username in the Exec=/home/[USER]/.config/polybar/launch.sh, put in /home/.config/autostart and /usr/share/applications 
