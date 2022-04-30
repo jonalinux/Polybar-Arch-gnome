@@ -4,18 +4,21 @@ Polybar-Arch-gnome
 ![POLYBAR](https://user-images.githubusercontent.com/103053714/166112607-81fed300-a459-4ba5-8ce5-59d382e4caca.png)
 
 # Install polybar for gnome
-1. First install Polybar from https://github.com/polybar/polybar 
+1. First install Polybar from https://github.com/polybar/polybar , Copy the folder polybar in ~/./config
 
 ## Fonts
-2. ll Iosevka fonts necessary for icon https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka
+2. Install Iosevka fonts necessary for icon https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka
+3. install SF Pro Display for text.
+
 - font-0 = "SF Pro Display:antialias=true:pixelsize=10;2"
 - font-1 = "Iosevka Nerd Font:pixelsize=12;3" https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka
 
-4. Copy the folder polybar in ~/./config
-5. select polybar.desktop
+## polybar.desktop
+4. For autostart, open the file with editor and set your username in the Exec=/home/[USER]/.config/polybar/launch.sh, put in /home/.config/autostart and /usr/share/applications 
 
+5. you can choose wich module to show on your polybar, depending if you have all package for example if you use nvidia gpu or not.
 
-# Modules
+## Modules
 - Show user@hostname info / click-left open jgmenu (if you have)
 - Packages count pacman
 - Update status / click-left: install update (Prerequisites: sudo pacman -S pacman-contrib) 
@@ -42,9 +45,10 @@ Polybar-Arch-gnome
 - snappergui COUNTER FOLDER ./SNAPSHOTS / click-left: open snappergui (Prerequisistes: Sudo pacman -S snappergui / with snapshots active)
 
 
+# How deactivate Gnome top bar 
+Its necessary deactivate the top bar original in gnome you can use any gnome extension meaning for example https://extensions.gnome.org/extension/3843/just-perfection/ or 
+https://extensions.gnome.org/extension/545/hide-top-bar/
 
-# polybar.desktop
-For autostart, open the file with editor and set your username in the Exec=/home/[USER]/.config/polybar/launch.sh, put in /home/.config/autostart and /usr/share/applications 
 
 # Polybar
 GitHub polybar for docs and download https://github.com/polybar/polybar
