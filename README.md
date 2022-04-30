@@ -16,9 +16,10 @@ Polybar-Arch-gnome
 ## polybar.desktop
 4. For autostart, open the file with editor and set your username in the Exec=/home/[USER]/.config/polybar/launch.sh, put in /home/.config/autostart and /usr/share/applications 
 
-5. you can choose wich module to show on your polybar, depending if you have all package for example if you use nvidia gpu or not.
-
 ## Modules
+
+5. You can choose wich module to show on your polybar, depending if you have all package for example if you use nvidia gpu or not.
+
 - Show user@hostname info / click-left open jgmenu (if you have)
 - Packages count pacman
 - Update status / click-left: install update (Prerequisites: sudo pacman -S pacman-contrib) 
