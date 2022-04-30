@@ -4,7 +4,7 @@ Polybar-Arch-gnome
 ![POLYBAR](https://user-images.githubusercontent.com/103053714/166112607-81fed300-a459-4ba5-8ce5-59d382e4caca.png)
 
 # Install polybar for gnome
-1. First install Polybar from https://github.com/polybar/polybar , Copy the folder polybar in ~/./config
+1. First install Polybar from https://github.com/polybar/polybar , Copy the folder polybar in ~/.config
 
 ## Fonts
 2. Install Iosevka fonts necessary for icon https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka
