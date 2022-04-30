@@ -3,6 +3,18 @@ Polybar-Arch-gnome
 
 ![POLYBAR](https://user-images.githubusercontent.com/103053714/166112607-81fed300-a459-4ba5-8ce5-59d382e4caca.png)
 
+# Install polybar for gnome
+1. First install Polybar from https://github.com/polybar/polybar 
+
+## Fonts
+2. ll Iosevka fonts necessary for icon https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka
+- font-0 = "SF Pro Display:antialias=true:pixelsize=10;2"
+- font-1 = "Iosevka Nerd Font:pixelsize=12;3" https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka
+
+4. Copy the folder polybar in ~/./config
+5. select polybar.desktop
+
+
 # Modules
 - Show user@hostname info / click-left open jgmenu (if you have)
 - Packages count pacman
@@ -29,9 +41,7 @@ Polybar-Arch-gnome
 - Firewalld Staus / click-left: open Firewalld setting (Prerequisistes: Sudo pacman -S firewalld) ask password for controll activities evry 3h
 - snappergui COUNTER FOLDER ./SNAPSHOTS / click-left: open snappergui (Prerequisistes: Sudo pacman -S snappergui / with snapshots active)
 
-# Fonts 
-- font-0 = "SF Pro Display:antialias=true:pixelsize=10;2"
-- font-1 = "Iosevka Nerd Font:pixelsize=12;3" https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka
+
 
 # polybar.desktop
 For autostart, open the file with editor and set your username in the Exec=/home/[USER]/.config/polybar/launch.sh, put in /home/.config/autostart and /usr/share/applications 
