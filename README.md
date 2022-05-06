@@ -24,7 +24,7 @@ Polybar-Arch-gnome
 - Show user@hostname info / click-left open jgmenu (if you have)
 - Packages count pacman
 - Update status / click-left: install update (Prerequisites: sudo pacman -S pacman-contrib) 
-- Trash info EMPTY - FULL - (VERY FULL from 5GB) /  click-left: open trash 
+- Trash info EMPTY - FULL - (VERY FULL from 5GB) - Autocleaning > 8GB /  click-left: open trash 
 - Cache home & pacman package [Size of total cache in ~/.cache and pacman package cache alert at 15gb]
 - GPU nvidia-smi Usage% Temp°C (Prerequisistes: Sudo pacman -S nvidia)
 - RAM + SWAP
